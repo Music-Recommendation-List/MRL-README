@@ -3,7 +3,7 @@
 ### Front-End 개발
 - [Front-End](https://github.com/Music-Recommendation-List/MRL-FE/blob/master/README.md)
 
-### back-End 개발
+### Back-End 개발
 - [Back-End](https://github.com/Music-Recommendation-List/MRL-BE)
 
 ## 💻 웹 사이트
