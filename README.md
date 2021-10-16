@@ -60,7 +60,7 @@ https://www.notion.so/5e1322440c5049f1806615dd1ee1cf4c?v=8bce2554108043539cc4bd5
 - 다른 사람이 추천한 음악을 바로 재생하여 볼 수 있습니다.(유튜브 연동)
 
 ### Front-End 개발 느낀 점
-- [Front-End](.)
+- [Front-End](https://github.com/Music-Recommendation-List/MRL-FE/blob/master/README.md)
 
 ### back-End 개발 느낀 점
 - [Back-End](.)
