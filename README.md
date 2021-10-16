@@ -1,13 +1,10 @@
-# MRL(Music Recommended List) 프론트엔드
+# MRL(Music Recommended List)
 
-![image](/public/images/thumbnail.png)
+### Front-End 개발
+- [Front-End](https://github.com/Music-Recommendation-List/MRL-FE/blob/master/README.md)
 
-## 📰 상세 페이지
-
-![image](/public/images/1.png)
-![image](/public/images/2.png)
-![image](/public/images/3.png)
-![image](/public/images/4.png)
+### back-End 개발
+- [Back-End](https://github.com/Music-Recommendation-List/MRL-BE)
 
 ## 💻 웹 사이트
 
@@ -59,8 +56,4 @@ https://www.notion.so/5e1322440c5049f1806615dd1ee1cf4c?v=8bce2554108043539cc4bd5
 - 댓글을 작성 할 수 있습니다.
 - 다른 사람이 추천한 음악을 바로 재생하여 볼 수 있습니다.(유튜브 연동)
 
-### Front-End 개발 느낀 점
-- [Front-End](https://github.com/Music-Recommendation-List/MRL-FE/blob/master/README.md)
 
-### back-End 개발 느낀 점
-- [Back-End](https://github.com/Music-Recommendation-List/MRL-BE)
