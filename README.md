@@ -63,4 +63,4 @@ https://www.notion.so/5e1322440c5049f1806615dd1ee1cf4c?v=8bce2554108043539cc4bd5
 - [Front-End](https://github.com/Music-Recommendation-List/MRL-FE/blob/master/README.md)
 
 ### back-End 개발 느낀 점
-- [Back-End](.)
+- [Back-End](https://github.com/Music-Recommendation-List/MRL-BE)
